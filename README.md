@@ -1,5 +1,6 @@
-# Seattle Airbnb Sales Dashboard  
-A data analysis and visualization project exploring Airbnb sales trends in Seattle to uncover pricing patterns and insights for property investors.
+# Seattle Airbnb Sales Dashboard 
+
+This dashboard outlined financial forecasting for Seattle AirBnb Sales. AirBnb prices are primarily based on zip code and number of bedrooms. 
 
 ## Project Overview  
 This project analyzes Airbnb listings in Seattle to identify pricing trends, occupancy patterns, and revenue drivers.  

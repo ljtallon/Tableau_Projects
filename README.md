@@ -15,7 +15,7 @@ This project analyzes Airbnb listings in Seattle to identify pricing trends, occ
 - Delivered insights that could help investors increase revenue by up to 15%.
 
 ## Visuals  
-### Tableau Dashboard  
+
 <img width="1652" height="909" alt="image" src="https://github.com/user-attachments/assets/23dc74f2-37d5-4f88-bd07-15158bb80753" />
 
 ## Next Steps  

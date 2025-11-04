@@ -1,6 +1,6 @@
 # Tableau Projects
 
-## Seattle Airbnb Sales Dashboard 🏠
+# Seattle Airbnb Sales Dashboard 🏠
 
 This dashboard outlined financial forecasting for Seattle AirBnb Sales. AirBnb prices are primarily based on zip code and number of bedrooms. 
 

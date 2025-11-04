@@ -1,4 +1,4 @@
-## Tableau Projects
+# Tableau Projects
 
 # Seattle Airbnb Sales Dashboard 🏠
 
